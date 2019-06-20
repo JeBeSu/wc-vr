@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vessa.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Sarita\\vessa\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "vessa [Testing]"
+        }
+      }
+    }
+  ]
+}
